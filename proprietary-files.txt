@@ -691,6 +691,7 @@ odm/lib64/libhta.so
 odm/lib64/libhwconfigurationutil.so;MODULE_SUFFIX=_odm
 odm/lib64/libhyperlapse.so
 odm/lib64/libml_util.so
+odm/lib64/libnightvision.so;FIX_SONAME
 odm/lib64/libmpbase.so
 odm/lib64/libop-ai-beauty-body-detection.so
 odm/lib64/libop-ai-beauty-faceretouch-cn.so
