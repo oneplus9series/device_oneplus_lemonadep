@@ -473,14 +473,14 @@
   "VendorTag": "com.oplus.feature.video.4k.120fps.support",
   "Type": "Byte",
   "Count": "1",
-  "Value": "1"
+  "Value": "0"
 },
 
 {
   "VendorTag": "com.oplus.feature.video.8k.support",
   "Type": "Byte",
   "Count": "1",
-  "Value": "1"
+  "Value": "0"
 },
 
 {
